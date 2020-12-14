@@ -1,0 +1,11 @@
+Question 1: Explain the Apache Oozie
+Question 2: What is the need for Apache Oozie?
+Question 3: What are the main components of the Apache Oozie workflow?
+Question 4: What is the use of Join and Fork nodes in Oozie?
+Question 5: What are some of the useful EL functions in the Oozie workflow?
+Question 6: Explain the different nodes supported in Oozie workflow.
+Question 7: What is Oozie Bundle?
+Question 8: Explain the Pipeline works In Oozie
+Question 9: Explain the life cycle of the Oozie workflow job
+
+https://www.upgrad.com/blog/oozie-interview-questions-answers-freshers-experienced/ - for reference
